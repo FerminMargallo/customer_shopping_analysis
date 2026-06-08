@@ -191,5 +191,5 @@ Open `dashboard/customer_shopping_dashboard.pbix` in Power BI Desktop.
 
 ## Author
 
-**Fermin Margallo** — Aspiring Data Analyst
+**Fermin Margallo** — Data Analyst
 [GitHub](https://github.com/FerminMargallo) · [Email](mailto:fmargalloremon@gmail.com)
